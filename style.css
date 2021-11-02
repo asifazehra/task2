@@ -1,0 +1,39 @@
+ *{
+	padding: 0;
+	margin: 0;
+    box-sizing: border-box;
+}
+.images{
+	border: 0px solid transparent;
+	display: flex;
+}
+.ab {
+    height: 240px;
+    width: 270px;
+}
+.abc {
+    height: 240px;
+    width: 270px;
+}
+.abcd {
+    flex-direction: row;
+    height: 240px;
+    width: 270px;
+    
+}
+.abce {
+    height: 240px;
+    width: 270px;
+}
+.abcef {
+    height: 240px;
+    width: 270px;
+}
+.abcg {
+    height: 240px;
+    width: 270px;
+}
+.abch {
+    height: 240px;
+    width: 270px;
+} 

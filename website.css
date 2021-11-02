@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/*header{
+background-image: url(images/img.jpg);
+}*/
+.c ul li{
+	display: inline-block;
+	text-decoration: none;
+	float: right;
+	padding: 10px;
+	margin-top: 5px;
+	
+}
+.c ul li:hover{
+	background-color: blue;
+	color: white;
+}
+.bgimage{
+	background-image: url(images/img.jpg);
+}
